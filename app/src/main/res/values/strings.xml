@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pizzaria</string>
+    <string name="chopp">Chopp</string>
+    <string name="pizzas">Pizzas</string>
+    <string name="recheios">Recheios</string>
+    <string name="pessoas">Pessoas</string>
+    <string name="consumo">Consumo:</string>
+    <string name="serviços">Serviços:</string>
+    <string name="total">Total:</string>
+    <string name="consumo2">____________</string>
+    <string name="serviços2">___________</string>
+    <string name="total2">___________</string>
+    <string name="porpessoa2">____________</string>
+    <string name="porpessoa">Por Pessoa:</string>
+    <string name="calcular">Calcular</string>
+</resources>
