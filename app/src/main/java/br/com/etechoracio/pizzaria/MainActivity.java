@@ -44,17 +44,17 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        double consumo2  = valorChopp + valorPizza + valorRecheios + pessoas;
+        double consumo2  = valorChopp + valorPizza + valorRecheios;
         lblConsumo2.setText(String.valueOf(consumo2));
 
-        double servicos = consumo2 * 10/100;
+        double servicos = consumo2 * 0.1;
         lblServicos2.setText(String.valueOf(servicos));
 
         double total = consumo2 + servicos;
         lblTotal2.setText(String.valueOf(total));
 
         double porpessoa = total / pessoas;
-        lblPorPesssoa2.setText(String.valueOf(pessoas));
+        lblPorPesssoa2.setText(String.valueOf(porpessoa));
 
 
 
